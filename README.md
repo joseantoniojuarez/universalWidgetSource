@@ -1,5 +1,5 @@
 
-universalWidgetSource
+Universal Widget
 
 Oracle Widget Implamentation:
 
