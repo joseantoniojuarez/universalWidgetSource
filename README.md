@@ -18,5 +18,5 @@ https://docs.oracle.com/en/cloud/saas/b2c-service/19d/fascg/implementing-standal
 Apply Universal Widget:
 Download these files, host them on your web server and add these tags to your site HTML (recommended use of a tag manager)
 
-<script src="https://raw.githubusercontent.com/joseantoniojuarez/universalWidgetSource/main/universalWidget.js"> </script>
-\<link rel="stylesheet" href="https://raw.githubusercontent.com/joseantoniojuarez/universalWidgetSource/main/universalWidget.css">
+<script src="your_js_folder/universalWidget.js"> </script>
+\<link rel="stylesheet" href="your_css_folder/universalWidget.css">
