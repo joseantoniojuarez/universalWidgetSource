@@ -19,4 +19,4 @@ Apply Universal Widget:
 Download these files, host them on your web server and add these tags to your site HTML (recommended use of a tag manager)
 
 <script src="https://raw.githubusercontent.com/joseantoniojuarez/universalWidgetSource/main/universalWidget.js"> </script>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/joseantoniojuarez/universalWidgetSource/main/universalWidget.css">
+\<link rel="stylesheet" href="https://raw.githubusercontent.com/joseantoniojuarez/universalWidgetSource/main/universalWidget.css">
